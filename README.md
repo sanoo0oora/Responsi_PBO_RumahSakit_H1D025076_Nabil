@@ -82,6 +82,6 @@ Program akan menampilkan simulasi pelayanan pasien rawat jalan dan rawat inap be
 
 Berikut merupakan screenshot hasil eksekusi program melalui terminal.
 
-![Screenshot Luaran Program](1.jpeg)
-![Screenshot Luaran Program](2.jpeg)
-![Screenshot Luaran Program](3.jpeg)
+![Screenshot Luaran Program](Screenshot/1.jpeg)
+![Screenshot Luaran Program](Screenshot/2.jpeg)
+![Screenshot Luaran Program](Screenshot/3.jpeg)
