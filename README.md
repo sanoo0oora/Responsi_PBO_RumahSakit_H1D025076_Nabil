@@ -63,7 +63,7 @@ Buka terminal melalui VS Code atau Command Prompt, kemudian arahkan ke folder ut
 Jalankan perintah berikut:
 
 ```bash
-javac -d . PBO_Responsi_RumahSakit/*.java
+javac -d . src/PBO_Responsi_RumahSakit/*.java
 ```
 
 Perintah tersebut digunakan untuk mengompilasi seluruh file Java yang terdapat di dalam folder program.
